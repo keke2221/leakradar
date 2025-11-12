@@ -1,0 +1,24 @@
+﻿[
+  {
+    "id": "sample-grant-1",
+    "program": "ARPA-E",
+    "sector": "climate",
+    "amount": 2500000,
+    "title": "Grid-scale thermal storage",
+    "agency": "DOE",
+    "deadline": "2024-11-15",
+    "license": "CC-BY",
+    "url": "https://example.com/grants/sample-grant-1"
+  },
+  {
+    "id": "sample-grant-2",
+    "program": "NIH",
+    "sector": "biotech",
+    "amount": 800000,
+    "title": "Adaptive cell therapies",
+    "agency": "NIH",
+    "deadline": "2024-12-01",
+    "license": "CC0",
+    "url": "https://example.com/grants/sample-grant-2"
+  }
+]

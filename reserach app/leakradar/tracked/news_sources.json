@@ -1,0 +1,14 @@
+{
+  "ai": [
+    {"query": "AI startup funding", "notes": "General AI funding narratives"}
+  ],
+  "biotech": [
+    {"query": "oncology breakthrough", "notes": "Cancer trial updates"}
+  ],
+  "climate": [
+    {"query": "renewable energy policy", "notes": "Policy oriented climate news"}
+  ],
+  "creator": [
+    {"query": "creator economy platform", "notes": "Creator monetization updates"}
+  ]
+}

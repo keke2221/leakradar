@@ -1,0 +1,9 @@
+symbol,sector,kind
+NVDA,ai,ticker
+MSFT,ai,ticker
+AMD,ai,ticker
+MRNA,biotech,ticker
+IBB,biotech,etf
+ENPH,climate,ticker
+ICLN,climate,etf
+META,creator,ticker

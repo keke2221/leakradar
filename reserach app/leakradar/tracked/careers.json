@@ -1,0 +1,26 @@
+﻿[
+  {
+    "url": "https://example.com/?sector=ai",
+    "sector": "ai",
+    "keywords": ["research", "infra"],
+    "type": "greenhouse"
+  },
+  {
+    "url": "https://example.com/?sector=biotech",
+    "sector": "biotech",
+    "keywords": ["clinical", "oncology"],
+    "type": "lever"
+  },
+  {
+    "url": "https://example.com/?sector=climate",
+    "sector": "climate",
+    "keywords": ["energy", "hardware"],
+    "type": "html"
+  },
+  {
+    "url": "https://example.com/?sector=creator",
+    "sector": "creator",
+    "keywords": ["content", "growth"],
+    "type": "html"
+  }
+]

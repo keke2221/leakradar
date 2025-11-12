@@ -1,0 +1,18 @@
+﻿{
+  "ai": {
+    "grants": ["https://example.com/grants/ai.rss"],
+    "jobs": ["https://example.com/jobs?sector=ai"]
+  },
+  "biotech": {
+    "grants": ["https://example.com/grants/biotech.rss"],
+    "jobs": ["https://example.com/jobs?sector=biotech"]
+  },
+  "climate": {
+    "grants": ["https://example.com/grants/climate.rss"],
+    "jobs": ["https://example.com/jobs?sector=climate"]
+  },
+  "creator": {
+    "grants": ["https://example.com/grants/creator.rss"],
+    "jobs": ["https://example.com/jobs?sector=creator"]
+  }
+}

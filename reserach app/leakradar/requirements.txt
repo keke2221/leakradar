@@ -1,0 +1,14 @@
+﻿streamlit
+requests
+feedparser
+pandas
+numpy
+python-dotenv
+tenacity
+python-telegram-bot
+beautifulsoup4
+lxml
+tqdm
+scipy
+pytest
+yfinance
